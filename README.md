@@ -105,5 +105,5 @@ https://github.com/vinaykumar-2007/Human-Emotion-Detection
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinaykumar-2007/vinaykumar-2007/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/vinaykumar-2007/vinaykumar-2007/output/github-snake-dark.svg?v=2" />
 </p>
